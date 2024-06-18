@@ -1,0 +1,171 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #03b1fc;
+    color: white;
+    padding: 2em 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header p {
+    margin-top: 0.5em;
+    font-size: 1.2em;
+}
+
+section {
+    padding: 2em 0;
+}
+
+.about {
+    background-color: #f4f4f4;
+}
+
+.about-content {
+    display: flex;
+    align-items: center;
+}
+
+.about-content img {
+    border-radius: 50%;
+    margin-right: 2em;
+    width: 150px;
+    height: 150px;
+}
+
+.skills ul {
+    list-style: none;
+    padding: 0;
+    font-family: bree serif;
+}
+
+.skills ul li {
+    background-color: #03a9fc;
+    margin: 0.5em 0;
+    padding: 0.5em;
+    border-radius: 4px;
+}
+
+.projects .project {
+    margin: 2em 0;
+}
+
+.projects .project img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+.resume a {
+    display: inline-block;
+    margin-top: 1em;
+    padding: 0.5em 1em;
+    background-color: #f542b3;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.contact p {
+    margin: 0.5em 0;
+}
+
+footer {
+    background-image:linear-gradient(to left#f55142,#f57842,#f5a742,#f5ce42,#f542bc);
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+.hh {
+    font-family: bree serif;
+}
+
+header nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+header nav ul li {
+    margin: 0 1em;
+}
+
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.hs {
+    font-family: bree serif;
+    font-size: 50px;
+}
+
+.follow-us-icon-container {
+    width: 30px;
+    height: 30px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.follow-us-icon-containers {
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.PS {
+    color: #656666;
+    font-weight: bold;
+}
+
+.pp {
+    margin: 10px;
+    font-weight: bold;
+    color: white;
+
+}
+
+.lo {
+    background-color: #656666;
+}
+
+.pa {
+    text-align: center;
+}
+.re{
+    background-color:#4287f5;
+}
+.rs{
+    background-color:#f542b3;
+}
+.rd{
+    margin:10em;
+}
+.bo{
+    color:;
+}
